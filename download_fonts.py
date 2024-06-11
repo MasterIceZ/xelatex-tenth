@@ -43,7 +43,6 @@ FONT_URLS = [
     'https://github.com/bBoxType/FiraGO/raw/master/Fonts/FiraGO_OTF_1001/Italic/FiraGO-BoldItalic.otf',
     'https://github.com/bBoxType/FiraGO/raw/master/Fonts/FiraGO_OTF_1001/Roman/FiraGO-ExtraBold.otf',
     'https://github.com/bBoxType/FiraGO/raw/master/Fonts/FiraGO_OTF_1001/Italic/FiraGO-ExtraBoldItalic.otf',
-    'https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip'
 ]
 
 
